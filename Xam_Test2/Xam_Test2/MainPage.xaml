@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Xam_Test2"
+             x:Class="Xam_Test2.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin Calculator!" 
+           HorizontalOptions="Center"
+           VerticalOptions="Start" />
+        <!--<Button Text="Click me!" Clicked="Button_Clicked" />-->
+        
+        <Entry x:Name="Xnum"
+               x:DataType="x:Int32"
+               Placeholder="X" 
+               WidthRequest="50"
+               HorizontalOptions="End" 
+               VerticalOptions="Start"
+               Keyboard="Numeric"/>
+        
+        <Entry x:Name="Ynum" 
+               x:DataType="x:Int32"
+               Placeholder="Y" 
+               WidthRequest="50"
+               HorizontalOptions="End" 
+               VerticalOptions="Start"
+               Keyboard="Numeric"/>
+                        
+        <Button Text="+" Clicked="Plus"
+               HorizontalOptions="End" 
+               VerticalOptions="Start"/>
+        <Button Text="-" Clicked="Minus"
+               HorizontalOptions="End" 
+               VerticalOptions="Start"/>
+        
+        <Entry x:Name="Znum" 
+               x:DataType="x:Int32"
+               Placeholder="Z" 
+               WidthRequest="50"
+               HorizontalOptions="End" 
+               VerticalOptions="Start"
+               Keyboard="Numeric"/>
+
+        <Button Text="Place on the first position" Clicked="Place"
+               HorizontalOptions="End" 
+               VerticalOptions="Start"/>
+
+    </StackLayout>
+
+</ContentPage>

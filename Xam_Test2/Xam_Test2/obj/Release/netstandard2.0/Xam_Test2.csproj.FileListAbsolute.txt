@@ -1,0 +1,11 @@
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\bin\Release\netstandard2.0\Xam_Test2.deps.json
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\bin\Release\netstandard2.0\Xam_Test2.dll
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\bin\Release\netstandard2.0\Xam_Test2.pdb
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\obj\Release\netstandard2.0\Xam_Test2.csproj.CoreCompileInputs.cache
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\obj\Release\netstandard2.0\Xam_Test2.AssemblyInfoInputs.cache
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\obj\Release\netstandard2.0\Xam_Test2.AssemblyInfo.cs
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\obj\Release\netstandard2.0\XamlC.stamp
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\obj\Release\netstandard2.0\Xam_Test2.dll
+C:\VS17\Xam_Test2\Xam_Test2\Xam_Test2\obj\Release\netstandard2.0\Xam_Test2.pdb
